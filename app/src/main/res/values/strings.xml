@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FeedbackBottomSheet</string>
+    <string name="what_could_be_better">What could be better?</string>
+    <string name="thank_you_for_your_feedback">Thank you for your feedback</string>
+    <string name="show_feedback_bottomsheet">SHOW FEEDBACK BOTTOMSHEET</string>
+    <string name="sendFeedback">SEND FEEDBACK</string>
+</resources>
